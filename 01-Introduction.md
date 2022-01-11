@@ -1,1 +1,9 @@
-
+## ELK STACK
+ELK Stack은 Logstash, ElasticSearch, Kibana의 줄임말이다.  
+ELK Stack을 마스터한다면, 어떤 빅데이터를 만나든지 쉽게 빅데이터 개발자의 역할을 수행할 수 있다.  
+  
+빅데이터 개발자는 어떤 데이터든지 수집하고, 빠르게 검색하고, 데이터 무더기에서 쓸만한 정보를 보기 좋게 시각화해야 한다.  
+그리고 오픈 소스이고, 어떤 운영체제로도 돌아간다면 좋다.  
+  
+* Logstash : 어떤 데이터베이스의 데이터든지 ElasticSearch에 수집해준다.
+* Kibana : 데이터 시각화 툴로 ElasticSearch의 데이터를 보기 좋게 화면에 보여준다.
