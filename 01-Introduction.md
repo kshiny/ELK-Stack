@@ -10,9 +10,6 @@ ELK Stack을 마스터한다면, 어떤 빅데이터를 만나든지 쉽게 빅�
 
 ## Install ElasticSearch
 
-1) [VMware 가상머신 설치하기[Win]]("https://blog.emapp.cc/4")
-3) [우분투(Ubuntu 16.04 LTS) 설치하기]("https://blog.emapp.cc/5")
-
-
-5) [우분투(Ubuntu 16.04 LTS)에 ElasticSearch 설치하기]("https://johnmarc.tistory.com/32")
-6) 
+1) [VMware 가상머신 설치하기[Win]](https://blog.emapp.cc/4)
+2) [우분투(Ubuntu 16.04 LTS) 설치하기](https://blog.emapp.cc/5)
+3) [우분투(Ubuntu 16.04 LTS)에 ElasticSearch 설치하기](https://johnmarc.tistory.com/32)
