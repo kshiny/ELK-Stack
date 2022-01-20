@@ -14,6 +14,7 @@ ELK Stack을 마스터한다면, 어떤 빅데이터를 만나든지 쉽게 빅�
 2) [우분투(Ubuntu 16.04 LTS) 설치하기](https://blog.emapp.cc/5)
 3) [우분투(Ubuntu 16.04 LTS)에 ElasticSearch 설치하기](https://johnmarc.tistory.com/32)
 
+  
 ## JAVA 라이선스 정책 변경에 따른 Ubuntu에 JAVA v1.8 설치하기
 
 1) [소스파일로 직접 JAVA 1.8 설치](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=love_tolty&logNo=221585458347)
