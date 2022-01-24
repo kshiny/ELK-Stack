@@ -21,6 +21,5 @@ ELK Stack을 마스터한다면, 어떤 빅데이터를 만나든지 쉽게 빅�
 
 ## Ubuntu에 Docker & ElasticSearch 설치하기
 
-[Docker 설치하기](https://yolololoo.tistory.com/1)
-
-[Docker-ElasticSearch 설치하기](https://techexpert.tips/ko/elasticsearch-ko/%ED%83%84%EC%84%B1-%EA%B2%80%EC%83%89-%EC%9A%B0%EB%B6%84%ED%88%AC-%EB%A6%AC%EB%88%85%EC%8A%A4%EC%97%90-%EB%8F%84%EC%BB%A4-%EC%84%A4%EC%B9%98)
+1) [Docker 설치하기](https://yolololoo.tistory.com/1)
+2) [Docker-ElasticSearch 설치하기](https://techexpert.tips/ko/elasticsearch-ko/%ED%83%84%EC%84%B1-%EA%B2%80%EC%83%89-%EC%9A%B0%EB%B6%84%ED%88%AC-%EB%A6%AC%EB%88%85%EC%8A%A4%EC%97%90-%EB%8F%84%EC%BB%A4-%EC%84%A4%EC%B9%98)
