@@ -8,6 +8,9 @@ ELK Stack을 마스터한다면, 어떤 빅데이터를 만나든지 쉽게 빅�
 * Logstash : 어떤 데이터베이스의 데이터든지 ElasticSearch에 수집해준다.
 * Kibana : 데이터 시각화 툴로 ElasticSearch의 데이터를 보기 좋게 화면에 보여준다.
 
+ ![image](https://user-images.githubusercontent.com/77952321/157583341-1660e1f8-217d-4a87-a316-4eb060529d71.png)
+
+
 ## ElasticSearch 설치하기
 
 1) [VMware 가상머신 설치하기[Win]](https://blog.emapp.cc/4)
