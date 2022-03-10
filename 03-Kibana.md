@@ -13,3 +13,7 @@
 
 ### Management : Kibana 설정 수정
 ![image](https://user-images.githubusercontent.com/77952321/157610637-a6f75eef-3e4c-4bc2-b050-9b281f25cf97.png)
+<br></br>
+## Kibana 시각화의 전제 조건
+1. 데이터가 Elasticsearch Index에 저장되어 있어야 한다
+2. 시각화되고 싶은 데이터가 담긴 Elasticsearch Index (혹은 Pattern)을 Kibana에서 등록해야 한다
