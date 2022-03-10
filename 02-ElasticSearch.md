@@ -16,3 +16,5 @@
 
 * (Replica Shards를 설정을 통해) 특정 Node (≒서버)가 다운되어도 데이터 유실 없이 운영할 수 있다.
   ![image](https://user-images.githubusercontent.com/77952321/157585083-a73a6999-5b0f-46d9-806f-d2ffa9246c16.png)
+
+* 아래의 비교는 어디까지나 이해를 돕기 위할 목적일 뿐 정확히 일치하지 않는다.
