@@ -17,3 +17,9 @@
 ## Kibana 시각화의 전제 조건
 1. 데이터가 Elasticsearch Index에 저장되어 있어야 한다
 2. 시각화되고 싶은 데이터가 담긴 Elasticsearch Index (혹은 Pattern)을 Kibana에서 등록해야 한다
+
+## Index Patterns 등록 1단계 - Elasticsearch Index(Patterns) 등록
+1. Kibana -> Management -> Index Patterns -> Create Index Pattern
+2. 시각화 하고 싶은 Index (Patterns) 입력, 예) Index 이름 : Shopping
+3. Next step 클릭
+
