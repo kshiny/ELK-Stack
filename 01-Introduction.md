@@ -22,7 +22,12 @@ ELK Stack을 마스터한다면, 어떤 빅데이터를 만나든지 쉽게 빅�
 
 1) [소스파일로 직접 JAVA 1.8 설치](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=love_tolty&logNo=221585458347)
 
-## Ubuntu에 Docker & ElasticSearch 설치하기
+## Ubuntu에 Docker | ElasticSearch | Kibana 설치하기
 
 1) [Docker 설치하기](https://yolololoo.tistory.com/1)
 2) [Docker-ElasticSearch 설치하기](https://techexpert.tips/ko/elasticsearch-ko/%ED%83%84%EC%84%B1-%EA%B2%80%EC%83%89-%EC%9A%B0%EB%B6%84%ED%88%AC-%EB%A6%AC%EB%88%85%EC%8A%A4%EC%97%90-%EB%8F%84%EC%BB%A4-%EC%84%A4%EC%B9%98)
+
+## Ubuntu에 Logstash 설치하기
+
+1) [Logstash 설치하기](https://techexpert.tips/ko/elasticsearch-ko/logstash-%ec%9a%b0%eb%b6%84%ed%88%ac-%eb%a6%ac%eb%88%85%ec%8a%a4%ec%97%90-%ec%84%a4%ec%b9%98/)
+2) [sudo echo 명령어 사용시 Permission denied 문제 해결하기](https://www.lesstif.com/lpt/sudo-echo-permission-denied-89556053.html)
